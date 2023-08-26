@@ -1,0 +1,8 @@
+torch==2.0.1
+torchaudio==2.0.2
+audio-separator==0.7.2
+pydub==0.25.1
+pytube==15.0.0
+onnxruntime==1.15.1
+onnx==1.14.0
+onnxruntime-gpu==1.12.0
