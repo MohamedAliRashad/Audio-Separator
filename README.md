@@ -16,7 +16,7 @@ Try and use a [venv](https://www.freecodecamp.org/news/how-to-setup-virtual-envi
 
 ## 👷 How to use ?
 - If there is a youtube video you want to separat the vocals and music in. Just add its URL in the first input field.
-- If you already have an audio you want to upload for separation. Just upload it in the second input field.
+- If you already have an audio you want to upload for separation. Just upload it in the second input field (Make sure to leave the first field empty).
 - The separation models that has the word "Vocal" in it is better in separating the vocals in the audio and vica versa with the word "Inst"
 
 ## 📓 Citations
